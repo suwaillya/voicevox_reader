@@ -1,0 +1,26 @@
+{
+  "default": {
+    "style_id": 2,
+    "voice_params": {
+      "speedScale": 1.0,
+      "pitchScale": 0.0,
+      "intonationScale": 1.0,
+      "volumeScale": 1.0
+    }
+  },
+
+  "莉莉": {
+    "style_id": 0,
+    "voice_params": {
+      "speedScale": 1.1,
+      "pitchScale": 0.1
+    }
+  },
+
+  "男主": {
+    "style_id": 39,
+    "voice_params": {
+      "pitchScale": -0.1
+    }
+  }
+}
